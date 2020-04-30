@@ -2,6 +2,12 @@
 main:
   - title: "About"
     url: https://ankushpal01.github.io/about
+  - title: "Articles"
+    url: /categories/#articles
+  - title: "Poetry"
+    url: /categories/#poetry
+  - title: "Reviews"
+    url: /categories/#reviews
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
