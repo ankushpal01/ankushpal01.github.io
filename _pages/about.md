@@ -2,6 +2,6 @@
 title: "About"
 permalink: /about/
 layout: single
-author_profile: true
+author_profile: false
 ---
 My name is Ankush Pal
