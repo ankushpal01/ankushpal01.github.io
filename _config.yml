@@ -20,7 +20,7 @@ title                    : "Ankush Pal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ankush Pal"
-description              : "An amazing website."
+description              : "A culmination of my artistic endeavours."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Ankush Pal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : #"I am an **amazing** person."
   location         : "Somewhere"
   email            : "ankushpal2001@gmail.com"
   links:
